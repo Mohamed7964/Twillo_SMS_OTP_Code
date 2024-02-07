@@ -1,0 +1,39 @@
+C:\Users\Mohamed Elsayed\Desktop\Twillo SMS OTP Code\Twillo SMS OTP Code\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Mohamed Elsayed\Desktop\Twillo SMS OTP Code\Twillo SMS OTP Code\bin\Debug\net6.0\appsettings.json
+C:\Users\Mohamed Elsayed\Desktop\Twillo SMS OTP Code\Twillo SMS OTP Code\bin\Debug\net6.0\Twillo SMS OTP Code.exe
+C:\Users\Mohamed Elsayed\Desktop\Twillo SMS OTP Code\Twillo SMS OTP Code\bin\Debug\net6.0\Twillo SMS OTP Code.deps.json
+C:\Users\Mohamed Elsayed\Desktop\Twillo SMS OTP Code\Twillo SMS OTP Code\bin\Debug\net6.0\Twillo SMS OTP Code.runtimeconfig.json
+C:\Users\Mohamed Elsayed\Desktop\Twillo SMS OTP Code\Twillo SMS OTP Code\bin\Debug\net6.0\Twillo SMS OTP Code.dll
+C:\Users\Mohamed Elsayed\Desktop\Twillo SMS OTP Code\Twillo SMS OTP Code\bin\Debug\net6.0\Twillo SMS OTP Code.pdb
+C:\Users\Mohamed Elsayed\Desktop\Twillo SMS OTP Code\Twillo SMS OTP Code\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mohamed Elsayed\Desktop\Twillo SMS OTP Code\Twillo SMS OTP Code\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mohamed Elsayed\Desktop\Twillo SMS OTP Code\Twillo SMS OTP Code\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mohamed Elsayed\Desktop\Twillo SMS OTP Code\Twillo SMS OTP Code\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mohamed Elsayed\Desktop\Twillo SMS OTP Code\Twillo SMS OTP Code\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Mohamed Elsayed\Desktop\Twillo SMS OTP Code\Twillo SMS OTP Code\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Mohamed Elsayed\Desktop\Twillo SMS OTP Code\Twillo SMS OTP Code\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mohamed Elsayed\Desktop\Twillo SMS OTP Code\Twillo SMS OTP Code\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mohamed Elsayed\Desktop\Twillo SMS OTP Code\Twillo SMS OTP Code\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mohamed Elsayed\Desktop\Twillo SMS OTP Code\Twillo SMS OTP Code\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mohamed Elsayed\Desktop\Twillo SMS OTP Code\Twillo SMS OTP Code\bin\Debug\net6.0\Twilio.dll
+C:\Users\Mohamed Elsayed\Desktop\Twillo SMS OTP Code\Twillo SMS OTP Code\obj\Debug\net6.0\Twillo SMS OTP Code.csproj.AssemblyReference.cache
+C:\Users\Mohamed Elsayed\Desktop\Twillo SMS OTP Code\Twillo SMS OTP Code\obj\Debug\net6.0\Twillo SMS OTP Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed Elsayed\Desktop\Twillo SMS OTP Code\Twillo SMS OTP Code\obj\Debug\net6.0\Twillo SMS OTP Code.AssemblyInfoInputs.cache
+C:\Users\Mohamed Elsayed\Desktop\Twillo SMS OTP Code\Twillo SMS OTP Code\obj\Debug\net6.0\Twillo SMS OTP Code.AssemblyInfo.cs
+C:\Users\Mohamed Elsayed\Desktop\Twillo SMS OTP Code\Twillo SMS OTP Code\obj\Debug\net6.0\Twillo SMS OTP Code.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Elsayed\Desktop\Twillo SMS OTP Code\Twillo SMS OTP Code\obj\Debug\net6.0\Twillo SMS OTP Code.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mohamed Elsayed\Desktop\Twillo SMS OTP Code\Twillo SMS OTP Code\obj\Debug\net6.0\Twillo SMS OTP Code.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mohamed Elsayed\Desktop\Twillo SMS OTP Code\Twillo SMS OTP Code\obj\Debug\net6.0\staticwebassets\msbuild.Twillo SMS OTP Code.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mohamed Elsayed\Desktop\Twillo SMS OTP Code\Twillo SMS OTP Code\obj\Debug\net6.0\staticwebassets\msbuild.build.Twillo SMS OTP Code.props
+C:\Users\Mohamed Elsayed\Desktop\Twillo SMS OTP Code\Twillo SMS OTP Code\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Twillo SMS OTP Code.props
+C:\Users\Mohamed Elsayed\Desktop\Twillo SMS OTP Code\Twillo SMS OTP Code\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Twillo SMS OTP Code.props
+C:\Users\Mohamed Elsayed\Desktop\Twillo SMS OTP Code\Twillo SMS OTP Code\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Mohamed Elsayed\Desktop\Twillo SMS OTP Code\Twillo SMS OTP Code\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Mohamed Elsayed\Desktop\Twillo SMS OTP Code\Twillo SMS OTP Code\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Mohamed Elsayed\Desktop\Twillo SMS OTP Code\Twillo SMS OTP Code\obj\Debug\net6.0\scopedcss\bundle\Twillo SMS OTP Code.styles.css
+C:\Users\Mohamed Elsayed\Desktop\Twillo SMS OTP Code\Twillo SMS OTP Code\obj\Debug\net6.0\Twillo SMS OTP Code.csproj.CopyComplete
+C:\Users\Mohamed Elsayed\Desktop\Twillo SMS OTP Code\Twillo SMS OTP Code\obj\Debug\net6.0\Twillo SMS OTP Code.dll
+C:\Users\Mohamed Elsayed\Desktop\Twillo SMS OTP Code\Twillo SMS OTP Code\obj\Debug\net6.0\refint\Twillo SMS OTP Code.dll
+C:\Users\Mohamed Elsayed\Desktop\Twillo SMS OTP Code\Twillo SMS OTP Code\obj\Debug\net6.0\Twillo SMS OTP Code.pdb
+C:\Users\Mohamed Elsayed\Desktop\Twillo SMS OTP Code\Twillo SMS OTP Code\obj\Debug\net6.0\Twillo SMS OTP Code.genruntimeconfig.cache
+C:\Users\Mohamed Elsayed\Desktop\Twillo SMS OTP Code\Twillo SMS OTP Code\obj\Debug\net6.0\ref\Twillo SMS OTP Code.dll

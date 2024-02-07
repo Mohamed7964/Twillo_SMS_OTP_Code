@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Twillo SMS OTP Code.props" />
+</Project>
